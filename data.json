@@ -1,0 +1,19 @@
+{
+    "projects": [
+        {
+            "name": "Project 1",
+            "description": "This is the first example project. It showcases skills in web development.",
+            "link": "http://example.com/project1"
+        },
+        {
+            "name": "Project 2",
+            "description": "This is the second example project. This project focuses on data analysis and visualization.",
+            "link": "http://example.com/project2"
+        },
+        {
+            "name": "Project 3",
+            "description": "This project involves machine learning. It details an application used to predict trends from data.",
+            "link": "http://example.com/project3"
+        }
+    ]
+}
